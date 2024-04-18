@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.3.7-uds.1](https://github.com/defenseunicorns/uds-package-jupyter/compare/v3.3.7-uds.0...v3.3.7-uds.1) (2024-04-12)
+
+
+### Miscellaneous
+
+* add upgrade tests and fix README ([#22](https://github.com/defenseunicorns/uds-package-jupyter/issues/22)) ([a0ace3a](https://github.com/defenseunicorns/uds-package-jupyter/commit/a0ace3a9c848872c1e0d7ad8ebc8d6775bc98bf2))
+
 ## [3.3.7-uds.0](https://github.com/defenseunicorns/uds-package-jupyter/compare/v3.3.7-uds.0...v3.3.7-uds.0) (2024-04-12)
 
 
